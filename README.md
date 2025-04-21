@@ -10,4 +10,4 @@ This is my personal website! I learned some of the basics of **HTML** and **CSS*
 
 ## How to View
    ```bash
-   https://hannahhuangh.github.io/Hannah_Website/
+   https://hannahhuangh.github.io/Hannah-Website-Assignment/
