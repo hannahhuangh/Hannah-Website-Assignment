@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #E4E0E1;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    color: #493628;
+    margin-top: 50px;
+  }
+  
+  h2 {
+    color: #AB886D;
+    margin-top: 10px;
+  }
+  
+  .story {
+    background-color: #D6C0B3;
+    display: inline-block;
+    padding: 15px 20px;
+    margin-top: 30px;
+    border-radius: 8px;
+    text-align: left;
+    max-width: 600px;
+    font-size: 16px;
+  }
+  
+  /* "My mood today" heading */
+  .mood-heading {
+    margin-top: 40px;
+    font-size: 28px;
+    color: #AB886D;
+  }
+  
+  /* Container for mood images */
+  .mood-images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+  }
+  
+  /* Individual images styling */
+  .mood-images img {
+    width: 250px;
+    height: auto;
+    border-radius: 20px;
+  }
+  
+  /* Footer text */
+  footer {
+    margin-top: 50px;
+    font-size: 14px;
+    color: #AB886D;
+  }
+  
