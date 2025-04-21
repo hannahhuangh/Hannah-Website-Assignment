@@ -1,4 +1,4 @@
-# Hannah-Website-Assignment
+# Hannah's HTML Website Assignment
 ## Overview
 This is my personal website! I learned some of the basics of **HTML** and **CSS** and applied what I learned to this assignment.
 
